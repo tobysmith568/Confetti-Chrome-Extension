@@ -62,7 +62,7 @@
 				...defaultArgs,
 				...opts,
 				origin: { y: 1, x: 0 },
-				angle: 35,
+				angle: 45,
 				particleCount: Math.floor(count * particleRatio)
 			});
 			confetti({
