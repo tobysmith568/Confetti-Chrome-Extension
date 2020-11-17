@@ -1,20 +1,16 @@
 {
   "name": "Confetti Cannon!",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Fires confetti all over your screen!",
   "background": {
-    "scripts": [
-      "background.js"
-    ],
+    "scripts": ["background.js"],
     "persistent": true
   },
   "browser_action": {
     "default_title": "Fire!"
   },
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": ["activeTab"],
   "icons": {
     "128": "media/icon.png"
   }
