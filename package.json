@@ -1,0 +1,22 @@
+{
+  "name": "confetti-chrome-extension",
+  "version": "1.0.1",
+  "description": "An extension for Chromium-based browsers which can be used to fire confetti all over your screen.  \r Simply click the button in your browser!",
+  "main": "index.js",
+  "scripts": {
+    "zip": "bestzip build.zip src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobysmith568/Confetti-Chrome-Extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobysmith568/Confetti-Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/tobysmith568/Confetti-Chrome-Extension#readme",
+  "devDependencies": {
+    "bestzip": "^2.1.7"
+  }
+}
