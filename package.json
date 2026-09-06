@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tobysmith568/Confetti-Chrome-Extension#readme",
   "devDependencies": {
-    "bestzip": "^2.1.7"
+    "bestzip": "^3.0.0"
   }
 }
